@@ -189,13 +189,14 @@ x_positions = np.arange(len(final_data_sorted))  # Base positions for the bars
 
 # Plot the bars for Control and Diabetic Neuropathy (DN)
 ax = sns.barplot(x=x_positions + bar_width/2, y='Counts_CONTROL_scaled', data=final_data_sorted, color='blue', label='Control')
-sns.barplot(x=x_positions + bar_width/2, y='Counts_DN_scaled', data=final_data_sorted, color='orange', label='Diabetic Neuropathy (DN)', ax=ax)
+sns.barplot(x=x_positions + bar_width/2, y='Counts_DN_scaled', data=final_data_sorted, color='red', label='Diabetic Neuropathy (DN)', ax=ax)
 
 # Rotate the x-axis labels to prevent overlap
 plt.xticks(x_positions, final_data_sorted['observation'], rotation=90)
+plt.yticks(rotation=90)
 
 # Adjust layout and add a legend
-plt.legend(title="Condition")
+plt.legend(title="Condition").remove()
 plt.tight_layout()
 
 # Show the plot
