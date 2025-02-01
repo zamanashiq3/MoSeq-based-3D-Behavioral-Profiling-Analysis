@@ -1,5 +1,6 @@
-# **README: MoSeq-based 3D Behavioral Profiling Analysis**
-
+# **MoSeq-based 3D Behavioral Profiling Analysis**
+## **Supporitng codebase and and data for the publication titiled "MoSeq-based 3D Behavioral Profiling Uncovers Neuropathic Behavior Changes in Diabetic Neuropathy Mice Models "**
+## `Ashiquzzaman et al. (2025)`
 ## **Overview**
 This repository contains two main Python scripts used in the paper:
 
