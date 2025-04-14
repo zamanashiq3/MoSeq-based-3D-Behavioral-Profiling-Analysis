@@ -1,6 +1,24 @@
 # **MoSeq-based 3D Behavioral Profiling Analysis**
-## **Supporting codebase and data for the publication titiled "MoSeq-based 3D Behavioral Profiling Uncovers Neuropathic Behavior Changes in Diabetic Neuropathy Mice Models "**
+## **Supporting codebase and data for the publication titiled "MoSeq Based 3D Behavioral Profiling Uncovers Neuropathic Behavior Changes in Diabetic Mouse Model"**
 ## `Ashiquzzaman et al. (2025)` [under review]
+
+## 📌 Publication Status
+
+This analysis was **accepted for publication in Scientific Reports** on **April 9, 2025**, under the title:
+
+**"MoSeq Based 3D Behavioral Profiling Uncovers Neuropathic Behavior Changes in Diabetic Mouse Model"**
+
+## 🧠 Main Figure: Behavioral Syllable Clustering
+
+![Behavioral Clustering Overview](./main_github_figure.png)
+
+**Figure: Behavioral Syllable Dynamics in Diabetic Neuropathy Mice.**  
+(A) Heatmap showing normalized syllable usage between behavioral syllables for control (left) and diabetic neuropathy (right) groups. The color intensity reflects syllable frequency, with diabetic neuropathy mice exhibiting distinct patterns. Notable syllables such as walking and head weaving demonstrate significant differences between groups. Hierarchical clustering dendrogram of behavioral syllables reveals distinct grouping dynamics. Clusters highlight exploratory behaviors (e.g., "head weaving," "wall jumping") and posture-associated behaviors (e.g., "body crouching," "nose rearing") that differ significantly between groups, along with UMAP projection of syllable distributions.  
+(B) Same UMAP projection of syllable distributions with k-means clustering (n=3) identifies three distinct clusters. Behaviors such as "wall jumping" and "head bobbing" are uniquely clustered in diabetic neuropathy mice, highlighting altered behavioral patterns.  
+(C) Bar plots comparing behavioral features indicate significant increases in "head weaving" and "wall jumping" in diabetic neuropathy mice, alongside reductions in "head stretching" and "body crouching".  
+(D) The volcano plot highlights significant behavioral changes in diabetic neuropathy mice, with increased "head weaving" (log₂ fold change ≈ +5) and "wall jumping" (log₂ fold change ≈ +1.5), while behaviors like "head bobbing" (log₂ fold change ≈ -4.8) and "head stretching" (log₂ fold change ≈ -1.6) are reduced compared to controls. Red and blue dots indicate upregulated and downregulated behaviors, respectively, while gray dots denote behaviors with no significant change.
+
+
 ## **Overview**
 This repository contains two main Python scripts used in the paper:
 
