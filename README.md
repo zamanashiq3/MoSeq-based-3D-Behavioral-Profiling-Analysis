@@ -147,10 +147,3 @@ pip install numpy pandas matplotlib seaborn scipy scikit-learn umap-learn
 ## **📜 Citation**
 If using this analysis, please cite:
 > **Ashiquzzaman, A., Lee, E., Znaub, B.F. et al. MoSeq based 3D behavioral profiling uncovers neuropathic behavior changes in diabetic mouse model. Sci Rep 15, 15114 (2025). https://doi.org/10.1038/s41598-025-98184-9**
-
----
-
-This README provides **reviewers** with **clear documentation** on how your **MoSeq-based behavioral analysis** is implemented, making it easier to evaluate and reproduce.
-
-Let me know if you need further refinements! 🚀
-
