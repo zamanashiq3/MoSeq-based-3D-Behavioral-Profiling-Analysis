@@ -1,10 +1,11 @@
 # **MoSeq-based 3D Behavioral Profiling Analysis**
 ## **Supporting codebase and data for the publication titiled "MoSeq Based 3D Behavioral Profiling Uncovers Neuropathic Behavior Changes in Diabetic Mouse Model"**
 ## `Ashiquzzaman et al. (2025)` [accepted]
+## UPDATE: Cite `Cite this article : Ashiquzzaman, A., Lee, E., Znaub, B.F. et al. MoSeq based 3D behavioral profiling uncovers neuropathic behavior changes in diabetic mouse model. Sci Rep 15, 15114 (2025). https://doi.org/10.1038/s41598-025-98184-9`
 
 ## 📌 Publication Status
 
-This analysis was **accepted for publication in Scientific Reports** on **April 9, 2025**, under the title:
+This analysis was **accepted for publication in Scientific Reports** on **Received 04 December 2024 Accepted 09 April 2025 Published 29 April 2025**, under the title:
 
 **"MoSeq Based 3D Behavioral Profiling Uncovers Neuropathic Behavior Changes in Diabetic Mouse Model"**
 
